@@ -1,0 +1,9 @@
+.studentCard {
+  @apply w-[32%] 
+}
+.studentImg {
+  @apply w-full h-[18rem] object-cover
+}
+.studentList {
+  @apply flex flex-wrap gap-[2%] 
+}
